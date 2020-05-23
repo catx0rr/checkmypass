@@ -1,2 +1,4 @@
 # checkmypass
-pwned password checker using API
+Secure pwned password checker.
+
+
